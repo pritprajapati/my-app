@@ -1,10 +1,15 @@
 #TextBuddy
 So TextBuddy is your text helper website which is useful to modify or alter your input text. It provides operations like: 
 ### To UpperCase
+Coverts all your text in upper case/ Capital Letters
 ### To LowerCase
+Converts all your text in lower case/ Small letters
 ### To Clear
+It clears all of your input
 ### To Copy
+It copies your input text to clipboard
 ### To Speak
+Fascinating enough it will spell out/ pronounce your input text!!
 
 
 # Getting Started with Create React App
