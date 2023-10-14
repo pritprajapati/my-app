@@ -1,3 +1,12 @@
+#TextBuddy
+So TextBuddy is your text helper website which is useful to modify or alter your input text. It provides operations like: 
+### To UpperCase
+### To LowerCase
+### To Clear
+### To Copy
+### To Speak
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
