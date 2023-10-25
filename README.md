@@ -1,4 +1,4 @@
-#TextBuddy
+# TextBuddy
 So TextBuddy is your text helper website which is useful to modify or alter your input text. It provides operations like: 
 ### To UpperCase
 Coverts all your text in upper case/ Capital Letters
